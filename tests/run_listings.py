@@ -90,7 +90,10 @@ def run(python, listing):
     chapter = listing.parent
     with tempfile.TemporaryDirectory() as tmp:
         work = Path(tmp) / chapter.name
-        shutil.copytree(chapter, work)
+        # Never copy cache folders: a stale cache could make Python or pytest
+        # report this folder's original path instead of the copy's
+        shutil.copytree(chapter, work, ignore=shutil.ignore_patterns(
+            "__pycache__", "*.pyc", ".pytest_cache", ".mypy_cache"))
         args_file = listing.with_suffix(".args")
         args = args_file.read_text().split("\n") if args_file.exists() else []
         args = [a for a in args if a]
