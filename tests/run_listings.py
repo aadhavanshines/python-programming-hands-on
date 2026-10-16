@@ -54,8 +54,31 @@ def env_for():
     env = {k: v for k, v in os.environ.items() if not k.startswith("PYTHON")}
     env.update(PYTHONDONTWRITEBYTECODE="1", NO_COLOR="1", PYTHON_COLORS="0",
                PYTHONHASHSEED="0", PYTHONUNBUFFERED="1", TERM="dumb", COLUMNS="76", LANG="C.UTF-8",
-               PYTHONIOENCODING="utf-8")
+               PYTHONIOENCODING="utf-8",
+               # Third-party pytest plugins installed on your computer can
+               # add lines to pytest's output; the book's tests need none
+               PYTEST_DISABLE_PLUGIN_AUTOLOAD="1")
     return env
+
+
+def version_warnings(python):
+    """Packages whose installed version differs from requirements.txt."""
+    wanted = {}
+    for line in (ROOT / "requirements.txt").read_text().splitlines():
+        if "==" in line and not line.startswith("#"):
+            name, version = line.split("==")
+            wanted[name.strip()] = version.strip()
+    code = ("import importlib.metadata as m, json, sys\n"
+            "out = {}\n"
+            "for n in sys.argv[1:]:\n"
+            "    try: out[n] = m.version(n)\n"
+            "    except m.PackageNotFoundError: out[n] = None\n"
+            "print(json.dumps(out))")
+    import json
+    p = subprocess.run([python, "-c", code, *wanted], capture_output=True, text=True)
+    found = json.loads(p.stdout or "{}")
+    return [f"{n} {found.get(n) or 'not installed'} (the book used {v})"
+            for n, v in wanted.items() if found.get(n) != v]
 
 
 def run(python, listing):
@@ -123,6 +146,11 @@ def main():
                       if not p.name.startswith("_") and not (a.only and a.only not in str(p)))
     sessions = sorted(p for p in [*CODE.glob("ch*/*.txt"), *CODE.glob("appendix/*.txt")]
                       if not (a.only and a.only not in str(p)))
+    for ver in a.python:
+        diffs = version_warnings(PYTHONS[ver])
+        if diffs and not a.record:
+            print(f"Note for Python {ver}: some packages differ from requirements.txt,")
+            print("so a few outputs may differ: " + "; ".join(diffs))
     failures, checked = [], 0
     for listing in listings:
         if listing.with_suffix(".skip").exists():
@@ -161,8 +189,9 @@ def main():
     for f in failures:
         print("FAIL", f)
     if not a.record:
+        versions = ", ".join(a.python)
         print(f"{checked} checks ({len(listings)} listings, {len(sessions)} sessions, "
-              f"{len(a.python)} Python versions); {len(failures)} failures")
+              f"Python {versions}); {len(failures)} failures")
     sys.exit(1 if failures else 0)
 
 

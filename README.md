@@ -1,8 +1,10 @@
 # Python Programming Hands-On: Code
 
+[![Check every listing](https://github.com/aadhavanshines/python-programming-hands-on/actions/workflows/check.yml/badge.svg)](https://github.com/aadhavanshines/python-programming-hands-on/actions/workflows/check.yml)
+
 All the programs, data files, exercise solutions and tests from the book ***Python Programming Hands-On: Learn Python from Basic to Advanced by Writing Real Programs, with Exercises, Solutions and Every Example Tested*** by Aadhavan Muthurengan, arranged by chapter.
 
-Every program here was run on Python 3.12, 3.13, 3.14 and 3.15, and its output compared with the output printed in the book. The expected output of each program is stored next to it, so you can check your own runs.
+Every program here was run on Python 3.12, 3.13, 3.14 and 3.15, and its output compared with the output printed in the book. The expected output of each program is stored next to it, so you can check your own runs. The same check runs on GitHub after every change, on all four versions, and its results are public on the [Actions tab](https://github.com/aadhavanshines/python-programming-hands-on/actions).
 
 ## Getting started
 
@@ -75,7 +77,11 @@ python tests/run_listings.py               # everything
 python tests/run_listings.py --only ch05   # one chapter
 ```
 
-It uses the Python you run it with. Output that depends on your computer, such as timings, is never compared. A different Python or package version can occasionally word an error message differently; the ideas stay the same.
+Run it in a fresh virtual environment with the exact versions from `requirements.txt` (step 3 above). It uses the Python you run it with, and it tells you at the start if any installed package differs from the versions the book used. Output that depends on your computer, such as timings, is never compared, and pytest plugins you may have installed elsewhere are switched off so that they can't add lines to the output. The whole check takes a few minutes; `--only` runs one chapter at a time.
+
+If a comparison fails, the harness shows the difference. A different Python or package version can occasionally word a message differently; the ideas stay the same. Don't re-record the `.out` files to make a failure go away: they are the book's printed output. If you find a real difference with the pinned versions, please open an issue.
+
+To share the code, use GitHub's **Download ZIP** or `git archive`: they contain only the files in the repository, without the `__pycache__` and `.pytest_cache` folders that running the programs creates on your computer.
 
 ## License
 
