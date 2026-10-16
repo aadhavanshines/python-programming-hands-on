@@ -1,0 +1,20 @@
+Created documents-2026-10-11.zip
+Created documents-2026-10-12.zip
+Created documents-2026-10-13.zip
+Created documents-2026-10-14.zip
+  removed documents-2026-10-11.zip
+Created documents-2026-10-15.zip
+  removed documents-2026-10-12.zip
+Skipped: a backup for 2026-10-15 already exists
+Kept:
+   documents-2026-10-13.zip
+   documents-2026-10-14.zip
+   documents-2026-10-15.zip
+documents-2026-10-15.zip contains 6 files:
+   documents/budget.csv
+   documents/letters/renewal.md
+   documents/letters/thanks.md
+   documents/notes/garden.txt
+   documents/notes/shopping-copy.txt
+   documents/notes/shopping.txt
+Archive test: all files OK

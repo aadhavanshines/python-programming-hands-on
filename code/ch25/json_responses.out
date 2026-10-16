@@ -1,0 +1,6 @@
+<class 'dict'>
+Books returned: 2
+  #1 Dune by Frank Herbert (1965)
+  #2 Emma by Jane Austen (1815)
+{"title": "Educated", "author": "Tara Westover", "year": 2018}
+<class 'str'>

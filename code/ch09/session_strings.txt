@@ -1,0 +1,17 @@
+>>> word = "Programming"
+>>> word[0:3]
+'Pro'
+>>> word[3:]
+'gramming'
+>>> word[::2]
+'Pormig'
+>>> word.upper().center(17, "*")
+'***PROGRAMMING***'
+>>> "a-b-c".split("-", maxsplit=1)
+['a', 'b-c']
+>>> "Hello".ljust(8, ".") + "World"
+'Hello...World'
+>>> word[0] = "p"
+Traceback (most recent call last):
+  ...
+TypeError: 'str' object does not support item assignment

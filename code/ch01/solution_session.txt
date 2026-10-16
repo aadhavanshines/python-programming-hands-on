@@ -1,0 +1,6 @@
+>>> 7 * 24 * 60
+10080
+>>> 365 * 24
+8760
+>>> print("Hip, hip, " * 2 + "hooray!")
+Hip, hip, Hip, hip, hooray!

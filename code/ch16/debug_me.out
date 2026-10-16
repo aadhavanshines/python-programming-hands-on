@@ -1,0 +1,13 @@
+> debug_me.py(4)apply_discounts()
+-> breakpoint()  # stop here and look around
+(Pdb) p price
+19.99
+(Pdb) p percent
+10
+(Pdb) p price * percent // 100
+1.0
+(Pdb) c
+> debug_me.py(4)apply_discounts()
+-> breakpoint()  # stop here and look around
+(Pdb) c
+[18.99, 5.0]

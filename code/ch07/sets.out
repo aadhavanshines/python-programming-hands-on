@@ -1,0 +1,5 @@
+Both like: ['jazz', 'python']
+Either likes: ['chess', 'football', 'hiking', 'jazz', 'python']
+Only Alice: ['chess', 'hiking']
+Unique tags: ['blue', 'green', 'red']
+Is 'chess' in alice? True

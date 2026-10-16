@@ -1,0 +1,8 @@
+# Packages for Parts III to V, at the versions the book was tested with.
+pytest==9.1.1
+mypy==2.4.0
+pandas==3.0.6
+matplotlib==3.11.2
+fastapi==0.143.2
+httpx==0.28.1
+uvicorn==0.54.0

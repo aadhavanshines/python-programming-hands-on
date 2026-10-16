@@ -1,0 +1,6 @@
+DEBUG    library: borrow('Dune') called; stock={'Dune': 1}
+INFO     library: lent out Dune; 0 left
+DEBUG    library: borrow('Dune') called; stock={'Dune': 0}
+WARNING  library: Dune is not available
+WARNING  library: Emma is not available
+WARNING  library: Dune is not available

@@ -1,0 +1,33 @@
+>>> score = 82
+>>> if score >= 90:
+...     grade = "A"
+... elif score >= 80:
+...     grade = "B"
+... else:
+...     grade = "C"
+>>> grade
+'B'
+>>> "pass" if score >= 50 else "fail"
+'pass'
+>>> for i, word in enumerate(["a", "b"], start=1):
+...     print(i, word)
+1 a
+2 b
+>>> n = 0
+>>> while True:
+...     n += 1
+...     if n == 3:
+...         break
+>>> n
+3
+>>> try:
+...     int("x")
+... except ValueError as error:
+...     print("Error:", error)
+Error: invalid literal for int() with base 10: 'x'
+>>> match ["add", "Dune"]:
+...     case ["add", title]:
+...         print("adding", title)
+...     case _:
+...         print("unknown")
+adding Dune

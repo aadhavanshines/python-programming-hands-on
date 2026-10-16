@@ -1,0 +1,9 @@
+GET /books -> 200 []
+POST /books -> 201
+   {'title': 'Dune', 'author': 'Frank Herbert', 'year': 1965, 'id': 1}
+GET /books/42 -> 404 {'detail': 'No book with id 42'}
+POST /books -> 201
+   {'title': 'Emma', 'author': 'Jane Austen', 'year': 1815, 'id': 2}
+GET /books?author=austen -> 200 ['Emma']
+POST without author -> 422 Field required
+raise_for_status: 404 No book with id 42

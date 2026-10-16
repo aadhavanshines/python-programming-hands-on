@@ -1,0 +1,18 @@
+>>> stock = {"apples": 12, "pears": 0}
+>>> stock["apples"]
+12
+>>> stock["plums"]
+Traceback (most recent call last):
+  ...
+KeyError: 'plums'
+>>> stock.get("plums", 0)
+0
+>>> "pears" in stock
+True
+>>> len(stock)
+2
+>>> stock.update({"plums": 7, "pears": 3})
+>>> stock
+{'apples': 12, 'pears': 3, 'plums': 7}
+>>> sorted(stock, key=stock.get, reverse=True)
+['apples', 'plums', 'pears']

@@ -1,0 +1,20 @@
+>>> class Point:
+...     def __init__(self, x, y):
+...         self.x = x
+...         self.y = y
+...
+>>> p = Point(2, 5)
+>>> p.x, p.y
+(2, 5)
+>>> p.x = 10
+>>> p.x
+10
+>>> type(p).__name__
+'Point'
+>>> isinstance(p, Point)
+True
+>>> q = Point(2, 5)
+>>> p == q
+False
+>>> isinstance("text", str), isinstance(3, (int, float))
+(True, True)

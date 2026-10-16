@@ -1,0 +1,8 @@
+x = 3 and y = 4
+Red has 3 values
+2 1
+Traceback (most recent call last):
+  File "tuples.py", line 12, in <module>
+    point[0] = 10  # tuples can't be changed
+    ~~~~~^^^
+TypeError: 'tuple' object does not support item assignment

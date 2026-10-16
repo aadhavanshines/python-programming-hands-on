@@ -1,0 +1,32 @@
+>>> def greet(name, greeting="Hello"):
+...     """Return a greeting."""
+...     return f"{greeting}, {name}!"
+>>> greet("Ada"), greet("Ada", greeting="Hi")
+('Hello, Ada!', 'Hi, Ada!')
+>>> def total(*numbers, **options):
+...     return sum(numbers), options
+>>> total(1, 2, 3, rounding=2)
+(6, {'rounding': 2})
+>>> sorted(["kiwi", "fig", "apple"], key=lambda w: len(w))
+['fig', 'kiwi', 'apple']
+>>> class Counter:
+...     def __init__(self, start=0):
+...         self.count = start
+...     def click(self):
+...         self.count += 1
+...         return self.count
+>>> c = Counter()
+>>> c.click(), c.click()
+(1, 2)
+>>> from dataclasses import dataclass
+>>> @dataclass
+... class Book:
+...     title: str
+...     year: int
+>>> Book("Dune", 1965)
+Book(title='Dune', year=1965)
+>>> def squares(limit):
+...     for n in range(limit):
+...         yield n * n
+>>> list(squares(4))
+[0, 1, 4, 9]

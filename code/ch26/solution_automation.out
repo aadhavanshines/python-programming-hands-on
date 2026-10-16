@@ -1,0 +1,21 @@
+{'INFO': 4, 'WARNING': 2, 'ERROR': 3}
+  2 x Database locked
+  1 x Could not send email: connection refused
+  Holiday Photo.JPG -> pictures/
+  My Notes.TXT -> documents/
+  Scan 1.PDF -> documents/
+  budget 2026.xlsx -> spreadsheets/
+  holiday photo (1).jpg -> pictures/
+  scan 2.pdf -> documents/
+   Old Photos/beach.jpg
+   documents/My Notes.TXT
+   documents/Scan 1.PDF
+   documents/scan 2.pdf
+   pictures/Holiday Photo.JPG
+   pictures/holiday photo (1).jpg
+   spreadsheets/budget 2026.xlsx
+title     author         finished    pages  rating
+--------  -------------  ----------  -----  ------
+Dune      Frank Herbert  2026-01-19  612    5
+Emma      Jane Austen    2026-02-27  474    4
+Educated  Tara Westover  2026-04-02  334    5

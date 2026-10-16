@@ -1,0 +1,9 @@
+6 files, 306 bytes in documents/
+  .txt   3
+  .md    2
+  .csv   1
+Largest files:
+     82 bytes  letters/thanks.md
+     65 bytes  notes/garden.txt
+     45 bytes  budget.csv
+Duplicates: notes/shopping-copy.txt, notes/shopping.txt

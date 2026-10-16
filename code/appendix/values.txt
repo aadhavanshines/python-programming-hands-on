@@ -1,0 +1,16 @@
+>>> 7 / 2, 7 // 2, 7 % 2, 2 ** 10
+(3.5, 3, 1, 1024)
+>>> int("42"), float("2.5"), str(99), round(2.675, 2)
+(42, 2.5, '99', 2.67)
+>>> name, n = "Ada", 3.14159
+>>> f"{name:>5}|{n:.2f}|{1234567:,}|{0.25:.0%}"
+'  Ada|3.14|1,234,567|25%'
+>>> s = "  Hello, World  "
+>>> s.strip().lower().replace("world", "Python")
+'hello, Python'
+>>> "a,b,c".split(","), "-".join(["a", "b", "c"])
+(['a', 'b', 'c'], 'a-b-c')
+>>> "Python"[0], "Python"[-1], "Python"[1:4], "Python"[::-1]
+('P', 'n', 'yth', 'nohtyP')
+>>> "py" in "python", "Python".startswith("Py"), len("Python")
+(True, True, 6)

@@ -1,0 +1,16 @@
+budget.xlsx  -> documents/
+notes.txt    -> documents/
+photo1.jpg   -> images/
+photo2.jpg   -> images/
+report.pdf   -> documents/
+song.mp3     -> music/
+
+documents
+documents/budget.xlsx
+documents/notes.txt
+documents/report.pdf
+images
+images/photo1.jpg
+images/photo2.jpg
+music
+music/song.mp3

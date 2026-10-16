@@ -1,0 +1,18 @@
+$ python -m venv .venv
+$ pip install -q -e ".[test]"
+$ pocket --version
+pocket 0.1.0
+$ pocket add "Dune" "Frank Herbert" 1965
+Added Dune.
+$ pocket add "Emma" "Jane Austen" 1815
+Added Emma.
+$ pocket read "dune"
+Marked Dune as read.
+$ pocket list
+[x] Dune (Frank Herbert, 1965)
+[ ] Emma (Jane Austen, 1815)
+$ pocket read "Ulysses"
+pocket: no book called 'Ulysses'
+$ python -m pytest -q
+....                                                                 [100%]
+4 passed in 0.01s

@@ -1,0 +1,10 @@
+>>> 2 + 3
+5
+>>> 10 - 4 * 2
+2
+>>> 7 / 2
+3.5
+>>> print("Hello from the Python shell")
+Hello from the Python shell
+>>> "ha" * 3
+'hahaha'

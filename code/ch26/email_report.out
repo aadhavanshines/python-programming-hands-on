@@ -1,0 +1,7 @@
+Not sent (add --send). The message would be:
+  From: reports@pocket-library.example
+  To: reader@pocket-library.example
+  Subject: Your reading log
+  part: text/plain, 54 characters, body
+  part: text/csv, 237 characters, attachment
+  attachment name: reading_log.csv

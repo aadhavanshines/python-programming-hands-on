@@ -1,0 +1,26 @@
+>>> nums = [3, 1, 2]
+>>> nums.append(4); nums.insert(0, 9); nums
+[9, 3, 1, 2, 4]
+>>> nums.pop(), sorted(nums), sum(nums), max(nums)
+(4, [1, 2, 3, 9], 15, 9)
+>>> [n * n for n in range(5) if n % 2 == 0]
+[0, 4, 16]
+>>> point = (3, 4)
+>>> x, y = point
+>>> ages = {"ana": 31, "ben": 25}
+>>> ages["cy"] = 40
+>>> ages.get("dee", 0), "ana" in ages, list(ages)
+(0, True, ['ana', 'ben', 'cy'])
+>>> for name, age in ages.items():
+...     print(name, age)
+ana 31
+ben 25
+cy 40
+>>> {k: v for k, v in ages.items() if v > 30}
+{'ana': 31, 'cy': 40}
+>>> a, b = {1, 2, 3}, {2, 3, 4}
+>>> a & b, a | b, a - b
+({2, 3}, {1, 2, 3, 4}, {1})
+>>> from collections import Counter
+>>> Counter("banana").most_common(2)
+[('a', 3), ('n', 2)]

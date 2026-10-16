@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pocket-library"
+version = "0.1.0"
+description = "Keep track of the books you own and the books you've read."
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+authors = [{ name = "Your Name" }]
+
+[project.scripts]
+pocket = "pocket_library.cli:main"
+
+[project.optional-dependencies]
+test = ["pytest"]

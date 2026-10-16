@@ -1,0 +1,6 @@
+# Code style for the book's listings: 76 characters fit on a printed line.
+line-length = 76
+extend-exclude = [
+    "code/ch01/typo.py",          # deliberate syntax error (Chapter 1)
+    "code/ch04/indent_error.py",  # deliberate indentation error (Chapter 4)
+]

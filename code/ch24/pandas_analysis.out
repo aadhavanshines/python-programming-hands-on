@@ -1,0 +1,31 @@
+(540, 7)
+      date    store             title  quantity  revenue
+2026-01-01 Old Town Walking the Coast         3     40.5
+2026-01-01  Station Walking the Coast         1     13.5
+2026-01-01  Station Walking the Coast         3     40.5
+
+store
+Station      10856.16
+Riverside     9689.64
+Old Town      7060.35
+
+store     Old Town  Riverside  Station
+category                              
+Children       813        675     1136
+Cookery       2179       3537     3015
+Fiction       1083       1887     1467
+Science       1688       2172     2377
+Travel        1296       1418     2862
+
+date
+2026-01    4054.56
+2026-02    4071.34
+2026-03    4079.50
+2026-04    5291.63
+2026-05    4675.96
+2026-06    5433.16
+Freq: M
+
+weekend
+False    3.08
+True     4.55

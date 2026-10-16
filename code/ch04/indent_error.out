@@ -1,0 +1,4 @@
+  File "indent_error.py", line 3
+    print("You can vote.")
+    ^^^^^
+IndentationError: expected an indented block after 'if' statement on line 2

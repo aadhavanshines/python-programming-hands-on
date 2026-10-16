@@ -1,0 +1,7 @@
+{'id': 1, 'rating': 5}
+{'id': 2, 'rating': 4}
+422
+404
+{'books': 2, 'rated': 2, 'average_rating': 4.5, 'oldest': 1815}
+title='Emma' author='Jane Austen' year=1815 id=2
+None

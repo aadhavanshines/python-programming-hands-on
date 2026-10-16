@@ -1,0 +1,11 @@
+5 books
+The Hobbit              310 pages  *****
+Dune                    412 pages  ****
+Educated                334 pages  *****
+The Midnight Library    288 pages  ****
+Sapiens                 443 pages  ***
+Total: 1787 pages, average 357
+title,rating
+The Hobbit,5
+Educated,5
+

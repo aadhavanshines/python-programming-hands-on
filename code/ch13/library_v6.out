@@ -1,0 +1,6 @@
+Library(3 books) | len: 3
+True
+- The Hobbit (1937)
+- Dune (1965)
+- Educated (2018)
+Error: already in the library: dune

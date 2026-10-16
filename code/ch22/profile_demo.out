@@ -1,0 +1,13 @@
+Same result: True
+         3004 function calls in 0.354 seconds
+
+   Ordered by: cumulative time
+   List reduced from 5 to 4 due to restriction <4>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.353    0.353    0.354    0.354 profile_demo.py:5(slow_unique)
+     3000    0.001    0.000    0.001    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 profile_demo.py:13(fast_unique)
+        1    0.000    0.000    0.000    0.000 {built-in method fromkeys}
+
+

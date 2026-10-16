@@ -1,0 +1,35 @@
+$ python -m pocket add "Dune" "Frank Herbert" --year 1965
+Added #1: Dune
+$ python -m pocket add "Children of Dune" "Frank Herbert" --year 1976
+Added #2: Children of Dune
+$ python -m pocket add "Emma" "Jane Austen" --year 1815
+Added #3: Emma
+$ python -m pocket add "Educated" "Tara Westover" --year 2018
+Added #4: Educated
+$ python -m pocket add "Dune" "Frank Herbert"
+pocket: already in the library: Dune by Frank Herbert
+$ python -m pocket read 1 --date 2026-09-14 --rating 5
+Marked #1 as read on 2026-09-14
+$ python -m pocket read 4 --date 2026-10-02 --rating 4
+Marked #4 as read on 2026-10-02
+$ python -m pocket list
+  1  Dune (Frank Herbert, 1965)  [read 2026-09-14, *****]
+  2  Children of Dune (Frank Herbert, 1976)  [unread]
+  3  Emma (Jane Austen, 1815)  [unread]
+  4  Educated (Tara Westover, 2018)  [read 2026-10-02, ****]
+$ python -m pocket list --unread
+  2  Children of Dune (Frank Herbert, 1976)  [unread]
+  3  Emma (Jane Austen, 1815)  [unread]
+$ python -m pocket list --search austen
+  3  Emma (Jane Austen, 1815)  [unread]
+$ python -m pocket read 9 --date 2026-10-15
+pocket: no book with id 9
+$ python -m pocket read 2 --date 2026-02-30
+pocket: not a date in the form YYYY-MM-DD: '2026-02-30'
+$ python -m pocket stats
+books           4
+read            2
+average rating  4.5
+top author      Frank Herbert
+$ python -m pocket export books.csv
+Exported 4 books to books.csv

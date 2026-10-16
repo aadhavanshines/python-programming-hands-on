@@ -1,0 +1,10 @@
+Book(title='Dune', author='Frank Herbert', year=1965, tags=['novel'])
+True
+Oldest: Version(major=3, minor=9)
+Newest: Version(major=3, minor=15)
+Traceback (most recent call last):
+  File "dataclasses_demo.py", line 27, in <module>
+    v.minor = 16
+    ^^^^^^^
+  File "<string>", line 32, in __setattr__
+dataclasses.FrozenInstanceError: cannot assign to field 'minor'

@@ -1,0 +1,17 @@
+>>> 5 > 3
+True
+>>> 5 == 5.0
+True
+>>> "apple" < "banana"
+True
+>>> 3 != 3
+False
+>>> age = 15
+>>> age >= 13 and age <= 19
+True
+>>> 13 <= age <= 19
+True
+>>> not (age > 18)
+True
+>>> bool(0), bool(42), bool(""), bool("hi"), bool([])
+(False, True, False, True, False)

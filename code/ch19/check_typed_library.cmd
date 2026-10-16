@@ -1,0 +1,1 @@
+-m mypy --strict --no-color-output typed_library.py typed_basics.py solution_types.py

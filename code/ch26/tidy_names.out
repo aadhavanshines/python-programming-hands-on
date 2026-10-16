@@ -1,0 +1,7 @@
+  'Holiday Photo.JPG'          -> 'holiday-photo.jpg'
+  'My Notes.TXT'               -> 'my-notes.txt'
+  'Scan 1.PDF'                 -> 'scan-1.pdf'
+  'budget 2026.xlsx'           -> 'budget-2026.xlsx'
+  'holiday photo (1).jpg'      -> 'holiday-photo-1.jpg'
+  'scan 2.pdf'                 -> 'scan-2.pdf'
+6 files would be renamed. Add --apply to do it.

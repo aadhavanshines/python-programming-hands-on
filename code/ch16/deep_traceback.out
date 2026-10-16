@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "deep_traceback.py", line 17, in <module>
+    print_receipt(["coffee: €3.20", "cake: €4.75", "tea: free"])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "deep_traceback.py", line 14, in print_receipt
+    print(f"Total: {order_total(lines):.2f}")
+                    ~~~~~~~~~~~^^^^^^^
+  File "deep_traceback.py", line 9, in order_total
+    total += parse_price(price)
+             ~~~~~~~~~~~^^^^^^^
+  File "deep_traceback.py", line 2, in parse_price
+    return float(text.replace("€", ""))
+           ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: ' free'

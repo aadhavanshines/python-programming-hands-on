@@ -1,0 +1,1 @@
+-m pytest -q -p no:cacheprovider test_discount.py

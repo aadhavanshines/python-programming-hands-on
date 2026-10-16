@@ -1,0 +1,7 @@
+42
+0
+Traceback (most recent call last):
+  File "scope.py", line 11, in <module>
+    print(result)  # result is not defined out here
+          ^^^^^^
+NameError: name 'result' is not defined

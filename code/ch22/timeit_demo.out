@@ -1,0 +1,4 @@
+1,000 searches in a list:  1253.35 ms
+1,000 searches in a set:      0.05 ms
+The set was about 24,616 times faster
+join: 121.5 ms, +=: 162.7 ms

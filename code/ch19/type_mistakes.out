@@ -1,0 +1,8 @@
+type_mistakes.py:6: error: Unsupported operand types for + ("str" and
+"int")  [operator]
+        return "Published in " + year  # mistake 1: adding str and int
+                                 ^~~~
+type_mistakes.py:11: error: Incompatible types in assignment (expression
+has type "str", variable has type "int")  [assignment]
+    count: int = "twelve"  # mistake 2: wrong type
+                 ^~~~~~~~

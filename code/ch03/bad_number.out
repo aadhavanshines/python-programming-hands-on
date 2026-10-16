@@ -1,0 +1,5 @@
+Your age: twelve
+Traceback (most recent call last):
+  File "bad_number.py", line 1, in <module>
+    age = int(input("Your age: "))
+ValueError: invalid literal for int() with base 10: 'twelve'

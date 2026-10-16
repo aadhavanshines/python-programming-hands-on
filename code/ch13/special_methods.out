@@ -1,0 +1,5 @@
+7.95 EUR
+Money(7.95, 'EUR')
+True
+[Money(3.2, 'EUR'), Money(4.75, 'EUR')]
+False True

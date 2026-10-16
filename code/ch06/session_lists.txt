@@ -1,0 +1,24 @@
+>>> numbers = [10, 20, 30, 40, 50]
+>>> numbers[1:3]
+[20, 30]
+>>> numbers[:2]
+[10, 20]
+>>> numbers[-2:]
+[40, 50]
+>>> numbers[::-1]
+[50, 40, 30, 20, 10]
+>>> a = [1, 2, 3]
+>>> b = a
+>>> b.append(4)
+>>> a
+[1, 2, 3, 4]
+>>> c = a.copy()
+>>> c.append(5)
+>>> a
+[1, 2, 3, 4]
+>>> sum([3, 1, 4]), min([3, 1, 4]), max([3, 1, 4])
+(8, 1, 4)
+>>> sorted(["pear", "Fig", "apple"])
+['Fig', 'apple', 'pear']
+>>> sorted(["pear", "Fig", "apple"], key=str.lower)
+['apple', 'Fig', 'pear']

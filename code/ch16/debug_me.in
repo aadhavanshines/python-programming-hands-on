@@ -1,0 +1,5 @@
+p price
+p percent
+p price * percent // 100
+c
+c

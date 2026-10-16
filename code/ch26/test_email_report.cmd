@@ -1,0 +1,1 @@
+-m pytest -q -p no:cacheprovider test_email_report.py

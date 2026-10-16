@@ -1,0 +1,9 @@
+['mango', 'banana', 'apple']
+First: mango
+Last: apple
+How many: 3
+['mango', 'kiwi', 'banana', 'apple', 'cherry']
+Popped: cherry
+['mango', 'kiwi', 'apple']
+Is apple there? True
+Sorted: ['apple', 'kiwi', 'mango']

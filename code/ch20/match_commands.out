@@ -1,0 +1,7 @@
+'add Dune'           -> Adding 'Dune'.
+'add Emma 1815'      -> Adding 'Emma' from 1815.
+'remove Dune Emma'   -> Removing 2 book(s): Dune, Emma.
+'?'                  -> Commands: add, remove, quit.
+''                   -> Please type a command.
+'fly'                -> I don't understand 'fly'.
+'exit'               -> Goodbye.

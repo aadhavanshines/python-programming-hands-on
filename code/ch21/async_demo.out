@@ -1,0 +1,6 @@
+In the order asked: ['news (0.3 s)', 'weather (0.1 s)', 'sport (0.2 s)']
+Faster than one after another: True
+Finished: weather (0.1 s)
+Finished: sport (0.2 s)
+Finished: news (0.3 s)
+Gave up on the slow server after 0.2 s

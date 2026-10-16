@@ -1,0 +1,541 @@
+date,store,category,title,quantity,unit_price
+2026-01-01,Old Town,Travel,Walking the Coast,3,13.5
+2026-01-01,Station,Travel,Walking the Coast,1,13.5
+2026-01-01,Station,Travel,Walking the Coast,3,13.5
+2026-01-02,Station,Fiction,The Lighthouse Keeper,1,12.99
+2026-01-02,Station,Science,Tiny Worlds,1,18.0
+2026-01-03,Riverside,Cookery,Spice Road Kitchen,4,24.0
+2026-01-03,Riverside,Children,The Moon Kite,3,6.5
+2026-01-03,Old Town,Cookery,One Pan Suppers,6,16.99
+2026-01-03,Station,Science,Tiny Worlds,3,18.0
+2026-01-03,Station,Cookery,One Pan Suppers,4,16.99
+2026-01-04,Riverside,Travel,Walking the Coast,6,13.5
+2026-01-04,Riverside,Science,How Rivers Think,4,21.5
+2026-01-04,Old Town,Fiction,Salt and Stars,4,9.99
+2026-01-05,Riverside,Travel,Walking the Coast,1,13.5
+2026-01-05,Old Town,Travel,Walking the Coast,3,13.5
+2026-01-05,Station,Travel,Walking the Coast,1,13.5
+2026-01-06,Riverside,Children,Milo the Brave Mouse,4,7.99
+2026-01-06,Riverside,Travel,Walking the Coast,1,13.5
+2026-01-06,Old Town,Travel,Walking the Coast,1,13.5
+2026-01-06,Old Town,Children,Milo the Brave Mouse,2,7.99
+2026-01-06,Station,Cookery,Spice Road Kitchen,2,24.0
+2026-01-06,Station,Travel,Walking the Coast,1,13.5
+2026-01-07,Riverside,Cookery,Spice Road Kitchen,1,24.0
+2026-01-07,Riverside,Cookery,Spice Road Kitchen,2,24.0
+2026-01-07,Old Town,Children,The Moon Kite,2,6.5
+2026-01-08,Riverside,Travel,Walking the Coast,2,13.5
+2026-01-08,Riverside,Travel,Walking the Coast,2,13.5
+2026-01-08,Old Town,Cookery,Spice Road Kitchen,2,24.0
+2026-01-08,Old Town,Travel,Walking the Coast,2,13.5
+2026-01-09,Riverside,Science,How Rivers Think,1,21.5
+2026-01-09,Station,Travel,Walking the Coast,1,13.5
+2026-01-10,Riverside,Cookery,One Pan Suppers,5,16.99
+2026-01-10,Old Town,Science,How Rivers Think,2,21.5
+2026-01-10,Old Town,Cookery,One Pan Suppers,3,16.99
+2026-01-10,Station,Fiction,The Lighthouse Keeper,7,12.99
+2026-01-11,Old Town,Children,Milo the Brave Mouse,3,7.99
+2026-01-11,Old Town,Fiction,Northbound,4,14.5
+2026-01-11,Station,Science,Tiny Worlds,5,18.0
+2026-01-12,Old Town,Travel,Walking the Coast,1,13.5
+2026-01-12,Station,Children,The Moon Kite,1,6.5
+2026-01-12,Station,Travel,Walking the Coast,6,13.5
+2026-01-13,Riverside,Science,Tiny Worlds,2,18.0
+2026-01-13,Riverside,Cookery,One Pan Suppers,4,16.99
+2026-01-13,Old Town,Science,How Rivers Think,1,21.5
+2026-01-13,Old Town,Cookery,One Pan Suppers,1,16.99
+2026-01-14,Old Town,Fiction,The Lighthouse Keeper,2,12.99
+2026-01-14,Station,Science,Tiny Worlds,5,18.0
+2026-01-15,Riverside,Science,How Rivers Think,3,21.5
+2026-01-15,Riverside,Science,Tiny Worlds,1,18.0
+2026-01-15,Old Town,Children,Milo the Brave Mouse,2,7.99
+2026-01-15,Old Town,Travel,Walking the Coast,1,13.5
+2026-01-15,Station,Children,Milo the Brave Mouse,4,7.99
+2026-01-15,Station,Travel,Walking the Coast,5,13.5
+2026-01-16,Station,Travel,Walking the Coast,4,13.5
+2026-01-16,Station,Cookery,One Pan Suppers,1,16.99
+2026-01-17,Station,Travel,Walking the Coast,5,13.5
+2026-01-17,Station,Travel,Walking the Coast,7,13.5
+2026-01-18,Riverside,Science,How Rivers Think,6,21.5
+2026-01-18,Old Town,Cookery,One Pan Suppers,2,16.99
+2026-01-18,Old Town,Children,The Moon Kite,3,6.5
+2026-01-18,Station,Cookery,Spice Road Kitchen,4,24.0
+2026-01-19,Riverside,Cookery,Spice Road Kitchen,3,24.0
+2026-01-19,Riverside,Fiction,Northbound,3,14.5
+2026-01-21,Riverside,Science,How Rivers Think,1,21.5
+2026-01-21,Old Town,Children,Milo the Brave Mouse,2,7.99
+2026-01-21,Old Town,Travel,Walking the Coast,2,13.5
+2026-01-22,Riverside,Science,Tiny Worlds,1,18.0
+2026-01-22,Riverside,Travel,Walking the Coast,2,13.5
+2026-01-22,Station,Fiction,Salt and Stars,4,9.99
+2026-01-23,Riverside,Children,Milo the Brave Mouse,4,7.99
+2026-01-23,Old Town,Science,How Rivers Think,2,21.5
+2026-01-23,Old Town,Science,Tiny Worlds,2,18.0
+2026-01-23,Station,Science,Tiny Worlds,6,18.0
+2026-01-24,Riverside,Cookery,One Pan Suppers,4,16.99
+2026-01-25,Station,Fiction,The Lighthouse Keeper,3,12.99
+2026-01-26,Riverside,Science,How Rivers Think,1,21.5
+2026-01-26,Old Town,Travel,Walking the Coast,3,13.5
+2026-01-26,Old Town,Children,The Moon Kite,2,6.5
+2026-01-26,Station,Fiction,Northbound,2,14.5
+2026-01-27,Riverside,Cookery,Spice Road Kitchen,3,24.0
+2026-01-27,Old Town,Fiction,Northbound,1,14.5
+2026-01-27,Station,Science,How Rivers Think,1,21.5
+2026-01-28,Riverside,Fiction,Salt and Stars,3,9.99
+2026-01-28,Riverside,Fiction,Northbound,1,14.5
+2026-01-28,Old Town,Children,Milo the Brave Mouse,2,7.99
+2026-01-28,Station,Fiction,The Lighthouse Keeper,2,12.99
+2026-01-28,Station,Fiction,The Lighthouse Keeper,1,12.99
+2026-01-29,Riverside,Science,Tiny Worlds,2,18.0
+2026-01-29,Riverside,Cookery,One Pan Suppers,2,16.99
+2026-01-29,Station,Children,Milo the Brave Mouse,4,7.99
+2026-01-30,Old Town,Fiction,Northbound,2,14.5
+2026-01-30,Old Town,Travel,Walking the Coast,1,13.5
+2026-01-30,Station,Children,Milo the Brave Mouse,4,7.99
+2026-01-31,Riverside,Cookery,Spice Road Kitchen,4,24.0
+2026-01-31,Old Town,Children,Milo the Brave Mouse,4,7.99
+2026-01-31,Station,Travel,Walking the Coast,2,13.5
+2026-01-31,Station,Science,How Rivers Think,8,21.5
+2026-02-01,Riverside,Children,The Moon Kite,5,6.5
+2026-02-01,Riverside,Fiction,The Lighthouse Keeper,2,12.99
+2026-02-01,Old Town,Cookery,Spice Road Kitchen,1,24.0
+2026-02-01,Old Town,Children,The Moon Kite,2,6.5
+2026-02-01,Station,Cookery,Spice Road Kitchen,6,24.0
+2026-02-02,Riverside,Cookery,Spice Road Kitchen,3,24.0
+2026-02-02,Riverside,Children,The Moon Kite,4,6.5
+2026-02-02,Station,Travel,Walking the Coast,4,13.5
+2026-02-03,Old Town,Science,How Rivers Think,1,21.5
+2026-02-04,Riverside,Fiction,The Lighthouse Keeper,1,12.99
+2026-02-04,Riverside,Travel,Walking the Coast,2,13.5
+2026-02-04,Old Town,Fiction,Salt and Stars,1,9.99
+2026-02-04,Old Town,Travel,Walking the Coast,4,13.5
+2026-02-04,Station,Fiction,The Lighthouse Keeper,4,12.99
+2026-02-04,Station,Travel,Walking the Coast,5,13.5
+2026-02-05,Riverside,Fiction,Northbound,1,14.5
+2026-02-05,Station,Science,How Rivers Think,2,21.5
+2026-02-06,Riverside,Children,The Moon Kite,3,6.5
+2026-02-06,Station,Cookery,Spice Road Kitchen,6,24.0
+2026-02-06,Station,Science,Tiny Worlds,3,18.0
+2026-02-07,Riverside,Travel,Walking the Coast,3,13.5
+2026-02-08,Old Town,Fiction,Salt and Stars,4,9.99
+2026-02-08,Old Town,Travel,Walking the Coast,3,13.5
+2026-02-08,Station,Travel,Walking the Coast,9,13.5
+2026-02-08,Station,Cookery,One Pan Suppers,9,16.99
+2026-02-09,Riverside,Fiction,Salt and Stars,2,9.99
+2026-02-09,Riverside,Fiction,Salt and Stars,4,9.99
+2026-02-09,Old Town,Cookery,One Pan Suppers,1,16.99
+2026-02-09,Station,Cookery,Spice Road Kitchen,3,24.0
+2026-02-11,Riverside,Science,How Rivers Think,3,21.5
+2026-02-11,Old Town,Cookery,Spice Road Kitchen,1,24.0
+2026-02-11,Station,Cookery,Spice Road Kitchen,3,24.0
+2026-02-12,Riverside,Children,The Moon Kite,3,6.5
+2026-02-12,Old Town,Cookery,Spice Road Kitchen,2,24.0
+2026-02-12,Station,Children,The Moon Kite,5,6.5
+2026-02-12,Station,Science,How Rivers Think,4,21.5
+2026-02-13,Riverside,Science,Tiny Worlds,2,18.0
+2026-02-13,Old Town,Science,Tiny Worlds,2,18.0
+2026-02-13,Old Town,Fiction,Salt and Stars,3,9.99
+2026-02-13,Station,Travel,Walking the Coast,2,13.5
+2026-02-14,Riverside,Science,How Rivers Think,2,21.5
+2026-02-14,Riverside,Science,Tiny Worlds,2,18.0
+2026-02-14,Old Town,Travel,Walking the Coast,1,13.5
+2026-02-14,Old Town,Cookery,Spice Road Kitchen,3,24.0
+2026-02-14,Station,Children,Milo the Brave Mouse,4,7.99
+2026-02-15,Riverside,Travel,Walking the Coast,5,13.5
+2026-02-15,Old Town,Cookery,Spice Road Kitchen,4,24.0
+2026-02-15,Old Town,Cookery,Spice Road Kitchen,5,24.0
+2026-02-15,Station,Fiction,Northbound,5,14.5
+2026-02-15,Station,Science,How Rivers Think,6,21.5
+2026-02-16,Riverside,Travel,Walking the Coast,3,13.5
+2026-02-16,Old Town,Science,Tiny Worlds,1,18.0
+2026-02-16,Old Town,Fiction,The Lighthouse Keeper,2,12.99
+2026-02-17,Riverside,Children,The Moon Kite,3,6.5
+2026-02-17,Old Town,Science,Tiny Worlds,4,18.0
+2026-02-17,Old Town,Travel,Walking the Coast,2,13.5
+2026-02-17,Station,Children,Milo the Brave Mouse,1,7.99
+2026-02-17,Station,Fiction,Salt and Stars,4,9.99
+2026-02-18,Riverside,Travel,Walking the Coast,2,13.5
+2026-02-18,Riverside,Cookery,Spice Road Kitchen,2,24.0
+2026-02-18,Old Town,Science,How Rivers Think,3,21.5
+2026-02-18,Station,Science,Tiny Worlds,3,18.0
+2026-02-19,Riverside,Science,How Rivers Think,2,21.5
+2026-02-19,Old Town,Children,The Moon Kite,2,6.5
+2026-02-19,Station,Science,Tiny Worlds,6,18.0
+2026-02-20,Riverside,Fiction,Salt and Stars,4,9.99
+2026-02-20,Riverside,Travel,Walking the Coast,1,13.5
+2026-02-20,Old Town,Travel,Walking the Coast,4,13.5
+2026-02-20,Station,Science,How Rivers Think,1,21.5
+2026-02-20,Station,Science,How Rivers Think,3,21.5
+2026-02-21,Riverside,Children,The Moon Kite,4,6.5
+2026-02-21,Riverside,Travel,Walking the Coast,1,13.5
+2026-02-22,Riverside,Children,Milo the Brave Mouse,1,7.99
+2026-02-22,Old Town,Travel,Walking the Coast,1,13.5
+2026-02-22,Station,Cookery,One Pan Suppers,4,16.99
+2026-02-23,Riverside,Science,How Rivers Think,4,21.5
+2026-02-23,Riverside,Travel,Walking the Coast,3,13.5
+2026-02-23,Station,Travel,Walking the Coast,3,13.5
+2026-02-23,Station,Travel,Walking the Coast,2,13.5
+2026-02-24,Riverside,Fiction,Salt and Stars,3,9.99
+2026-02-24,Riverside,Children,Milo the Brave Mouse,1,7.99
+2026-02-24,Old Town,Travel,Walking the Coast,2,13.5
+2026-02-24,Station,Fiction,The Lighthouse Keeper,4,12.99
+2026-02-24,Station,Children,The Moon Kite,2,6.5
+2026-02-25,Riverside,Fiction,Salt and Stars,1,9.99
+2026-02-25,Riverside,Children,The Moon Kite,3,6.5
+2026-02-25,Old Town,Cookery,One Pan Suppers,2,16.99
+2026-02-25,Old Town,Science,Tiny Worlds,2,18.0
+2026-02-26,Station,Travel,Walking the Coast,3,13.5
+2026-02-27,Riverside,Fiction,The Lighthouse Keeper,1,12.99
+2026-02-27,Station,Cookery,One Pan Suppers,3,16.99
+2026-03-01,Riverside,Cookery,One Pan Suppers,2,16.99
+2026-03-01,Riverside,Cookery,Spice Road Kitchen,6,24.0
+2026-03-01,Old Town,Science,Tiny Worlds,6,18.0
+2026-03-01,Station,Travel,Walking the Coast,5,13.5
+2026-03-02,Station,Children,Milo the Brave Mouse,4,7.99
+2026-03-02,Station,Travel,Walking the Coast,2,13.5
+2026-03-04,Riverside,Cookery,One Pan Suppers,6,16.99
+2026-03-04,Riverside,Cookery,One Pan Suppers,1,16.99
+2026-03-04,Old Town,Children,The Moon Kite,2,6.5
+2026-03-04,Old Town,Fiction,Salt and Stars,4,9.99
+2026-03-04,Station,Cookery,Spice Road Kitchen,5,24.0
+2026-03-04,Station,Children,Milo the Brave Mouse,2,7.99
+2026-03-05,Old Town,Children,The Moon Kite,1,6.5
+2026-03-05,Old Town,Travel,Walking the Coast,3,13.5
+2026-03-05,Station,Travel,Walking the Coast,4,13.5
+2026-03-05,Station,Fiction,Salt and Stars,1,9.99
+2026-03-06,Riverside,Science,Tiny Worlds,3,18.0
+2026-03-06,Station,Fiction,The Lighthouse Keeper,2,12.99
+2026-03-06,Station,Travel,Walking the Coast,2,13.5
+2026-03-07,Riverside,Travel,Walking the Coast,3,13.5
+2026-03-07,Riverside,Travel,Walking the Coast,3,13.5
+2026-03-07,Old Town,Children,Milo the Brave Mouse,3,7.99
+2026-03-08,Riverside,Fiction,The Lighthouse Keeper,3,12.99
+2026-03-08,Station,Fiction,Northbound,5,14.5
+2026-03-08,Station,Travel,Walking the Coast,5,13.5
+2026-03-09,Riverside,Children,The Moon Kite,1,6.5
+2026-03-09,Old Town,Children,The Moon Kite,2,6.5
+2026-03-10,Riverside,Children,The Moon Kite,1,6.5
+2026-03-10,Old Town,Fiction,Salt and Stars,2,9.99
+2026-03-11,Old Town,Cookery,Spice Road Kitchen,3,24.0
+2026-03-11,Old Town,Cookery,One Pan Suppers,2,16.99
+2026-03-11,Station,Fiction,Northbound,4,14.5
+2026-03-11,Station,Cookery,One Pan Suppers,3,16.99
+2026-03-12,Riverside,Science,How Rivers Think,6,21.5
+2026-03-12,Old Town,Travel,Walking the Coast,1,13.5
+2026-03-12,Old Town,Children,Milo the Brave Mouse,4,7.99
+2026-03-12,Station,Science,Tiny Worlds,2,18.0
+2026-03-12,Station,Cookery,Spice Road Kitchen,3,24.0
+2026-03-13,Station,Cookery,One Pan Suppers,4,16.99
+2026-03-14,Old Town,Science,How Rivers Think,4,21.5
+2026-03-14,Old Town,Fiction,Salt and Stars,5,9.99
+2026-03-15,Riverside,Travel,Walking the Coast,8,13.5
+2026-03-15,Riverside,Cookery,One Pan Suppers,2,16.99
+2026-03-15,Old Town,Cookery,One Pan Suppers,6,16.99
+2026-03-15,Old Town,Children,The Moon Kite,4,6.5
+2026-03-15,Station,Fiction,Salt and Stars,6,9.99
+2026-03-15,Station,Children,Milo the Brave Mouse,5,7.99
+2026-03-16,Riverside,Science,Tiny Worlds,5,18.0
+2026-03-16,Old Town,Travel,Walking the Coast,1,13.5
+2026-03-16,Old Town,Travel,Walking the Coast,2,13.5
+2026-03-16,Station,Fiction,Northbound,2,14.5
+2026-03-17,Riverside,Fiction,The Lighthouse Keeper,4,12.99
+2026-03-18,Riverside,Cookery,One Pan Suppers,1,16.99
+2026-03-19,Old Town,Children,The Moon Kite,3,6.5
+2026-03-19,Old Town,Cookery,Spice Road Kitchen,4,24.0
+2026-03-19,Station,Fiction,The Lighthouse Keeper,4,12.99
+2026-03-20,Riverside,Fiction,Northbound,3,14.5
+2026-03-20,Old Town,Travel,Walking the Coast,1,13.5
+2026-03-20,Old Town,Cookery,One Pan Suppers,2,16.99
+2026-03-20,Station,Travel,Walking the Coast,2,13.5
+2026-03-21,Station,Fiction,Northbound,3,14.5
+2026-03-22,Riverside,Science,How Rivers Think,4,21.5
+2026-03-22,Riverside,Fiction,Northbound,4,14.5
+2026-03-22,Old Town,Children,Milo the Brave Mouse,3,7.99
+2026-03-22,Station,Children,The Moon Kite,2,6.5
+2026-03-23,Riverside,Children,The Moon Kite,2,6.5
+2026-03-23,Riverside,Travel,Walking the Coast,4,13.5
+2026-03-23,Old Town,Children,The Moon Kite,2,6.5
+2026-03-23,Old Town,Travel,Walking the Coast,2,13.5
+2026-03-24,Riverside,Travel,Walking the Coast,5,13.5
+2026-03-24,Riverside,Fiction,The Lighthouse Keeper,4,12.99
+2026-03-24,Old Town,Children,The Moon Kite,4,6.5
+2026-03-24,Station,Fiction,Salt and Stars,1,9.99
+2026-03-25,Riverside,Fiction,Salt and Stars,1,9.99
+2026-03-25,Old Town,Fiction,The Lighthouse Keeper,3,12.99
+2026-03-25,Old Town,Fiction,Salt and Stars,3,9.99
+2026-03-25,Station,Cookery,Spice Road Kitchen,3,24.0
+2026-03-26,Riverside,Cookery,Spice Road Kitchen,1,24.0
+2026-03-26,Old Town,Science,How Rivers Think,3,21.5
+2026-03-26,Station,Fiction,The Lighthouse Keeper,3,12.99
+2026-03-26,Station,Children,The Moon Kite,3,6.5
+2026-03-27,Riverside,Children,The Moon Kite,1,6.5
+2026-03-28,Old Town,Children,The Moon Kite,2,6.5
+2026-03-28,Station,Travel,Walking the Coast,3,13.5
+2026-03-28,Station,Travel,Walking the Coast,5,13.5
+2026-03-29,Riverside,Children,Milo the Brave Mouse,2,7.99
+2026-03-29,Old Town,Science,Tiny Worlds,3,18.0
+2026-03-29,Old Town,Science,Tiny Worlds,1,18.0
+2026-03-29,Station,Travel,Walking the Coast,3,13.5
+2026-03-30,Riverside,Fiction,Northbound,3,14.5
+2026-03-30,Old Town,Fiction,Northbound,1,14.5
+2026-03-30,Station,Children,The Moon Kite,4,6.5
+2026-03-31,Riverside,Travel,Walking the Coast,4,13.5
+2026-03-31,Riverside,Cookery,One Pan Suppers,2,16.99
+2026-03-31,Station,Travel,Walking the Coast,1,13.5
+2026-04-01,Riverside,Children,The Moon Kite,5,6.5
+2026-04-01,Old Town,Fiction,The Lighthouse Keeper,3,12.99
+2026-04-01,Station,Cookery,Spice Road Kitchen,5,24.0
+2026-04-01,Station,Children,The Moon Kite,2,6.5
+2026-04-02,Riverside,Fiction,The Lighthouse Keeper,3,12.99
+2026-04-02,Riverside,Fiction,The Lighthouse Keeper,2,12.99
+2026-04-02,Old Town,Travel,Walking the Coast,3,13.5
+2026-04-02,Station,Children,The Moon Kite,4,6.5
+2026-04-03,Old Town,Children,The Moon Kite,3,6.5
+2026-04-03,Station,Cookery,One Pan Suppers,2,16.99
+2026-04-03,Station,Children,The Moon Kite,1,6.5
+2026-04-04,Riverside,Travel,Walking the Coast,6,13.5
+2026-04-04,Station,Cookery,One Pan Suppers,8,16.99
+2026-04-05,Riverside,Cookery,One Pan Suppers,7,16.99
+2026-04-05,Riverside,Cookery,One Pan Suppers,6,16.99
+2026-04-05,Old Town,Cookery,One Pan Suppers,2,16.99
+2026-04-06,Old Town,Children,The Moon Kite,3,6.5
+2026-04-06,Station,Fiction,Salt and Stars,4,9.99
+2026-04-06,Station,Cookery,One Pan Suppers,2,16.99
+2026-04-07,Riverside,Children,Milo the Brave Mouse,4,7.99
+2026-04-07,Old Town,Science,How Rivers Think,1,21.5
+2026-04-08,Riverside,Children,The Moon Kite,4,6.5
+2026-04-08,Riverside,Fiction,Northbound,3,14.5
+2026-04-08,Old Town,Science,How Rivers Think,1,21.5
+2026-04-08,Old Town,Travel,Walking the Coast,3,13.5
+2026-04-09,Riverside,Travel,Walking the Coast,2,13.5
+2026-04-09,Riverside,Travel,Walking the Coast,3,13.5
+2026-04-09,Old Town,Cookery,Spice Road Kitchen,1,24.0
+2026-04-09,Old Town,Science,Tiny Worlds,4,18.0
+2026-04-09,Station,Travel,Walking the Coast,6,13.5
+2026-04-09,Station,Science,How Rivers Think,7,21.5
+2026-04-10,Riverside,Fiction,Northbound,3,14.5
+2026-04-10,Old Town,Travel,Walking the Coast,5,13.5
+2026-04-10,Old Town,Science,Tiny Worlds,2,18.0
+2026-04-10,Station,Travel,Walking the Coast,2,13.5
+2026-04-11,Riverside,Cookery,One Pan Suppers,9,16.99
+2026-04-11,Riverside,Cookery,Spice Road Kitchen,4,24.0
+2026-04-11,Old Town,Science,How Rivers Think,2,21.5
+2026-04-11,Old Town,Cookery,Spice Road Kitchen,6,24.0
+2026-04-11,Station,Cookery,One Pan Suppers,4,16.99
+2026-04-12,Riverside,Fiction,Northbound,6,14.5
+2026-04-12,Riverside,Science,Tiny Worlds,6,18.0
+2026-04-12,Old Town,Cookery,Spice Road Kitchen,5,24.0
+2026-04-12,Station,Science,Tiny Worlds,6,18.0
+2026-04-12,Station,Children,Milo the Brave Mouse,7,7.99
+2026-04-13,Old Town,Science,How Rivers Think,4,21.5
+2026-04-13,Old Town,Travel,Walking the Coast,4,13.5
+2026-04-13,Station,Children,Milo the Brave Mouse,5,7.99
+2026-04-14,Riverside,Fiction,The Lighthouse Keeper,2,12.99
+2026-04-14,Riverside,Fiction,Northbound,5,14.5
+2026-04-15,Riverside,Travel,Walking the Coast,1,13.5
+2026-04-15,Old Town,Cookery,Spice Road Kitchen,1,24.0
+2026-04-15,Station,Children,Milo the Brave Mouse,3,7.99
+2026-04-16,Riverside,Science,Tiny Worlds,3,18.0
+2026-04-16,Old Town,Children,The Moon Kite,5,6.5
+2026-04-16,Old Town,Fiction,The Lighthouse Keeper,1,12.99
+2026-04-16,Station,Cookery,One Pan Suppers,5,16.99
+2026-04-17,Old Town,Fiction,The Lighthouse Keeper,2,12.99
+2026-04-17,Station,Cookery,One Pan Suppers,5,16.99
+2026-04-17,Station,Children,The Moon Kite,6,6.5
+2026-04-18,Riverside,Fiction,The Lighthouse Keeper,8,12.99
+2026-04-18,Station,Cookery,One Pan Suppers,1,16.99
+2026-04-19,Old Town,Travel,Walking the Coast,7,13.5
+2026-04-19,Station,Travel,Walking the Coast,6,13.5
+2026-04-20,Riverside,Travel,Walking the Coast,4,13.5
+2026-04-20,Old Town,Fiction,Northbound,3,14.5
+2026-04-20,Old Town,Children,Milo the Brave Mouse,4,7.99
+2026-04-21,Old Town,Science,Tiny Worlds,1,18.0
+2026-04-21,Old Town,Cookery,Spice Road Kitchen,4,24.0
+2026-04-22,Station,Cookery,One Pan Suppers,6,16.99
+2026-04-23,Riverside,Science,Tiny Worlds,2,18.0
+2026-04-23,Riverside,Travel,Walking the Coast,4,13.5
+2026-04-23,Old Town,Cookery,One Pan Suppers,2,16.99
+2026-04-23,Station,Children,The Moon Kite,1,6.5
+2026-04-24,Riverside,Fiction,The Lighthouse Keeper,4,12.99
+2026-04-24,Riverside,Science,Tiny Worlds,3,18.0
+2026-04-24,Old Town,Fiction,Salt and Stars,4,9.99
+2026-04-24,Station,Science,How Rivers Think,7,21.5
+2026-04-25,Station,Cookery,One Pan Suppers,11,16.99
+2026-04-26,Old Town,Children,Milo the Brave Mouse,5,7.99
+2026-04-26,Old Town,Fiction,Northbound,4,14.5
+2026-04-26,Station,Fiction,Salt and Stars,2,9.99
+2026-04-27,Riverside,Science,Tiny Worlds,3,18.0
+2026-04-27,Station,Travel,Walking the Coast,6,13.5
+2026-04-28,Riverside,Fiction,Northbound,2,14.5
+2026-04-28,Old Town,Science,How Rivers Think,3,21.5
+2026-04-28,Old Town,Travel,Walking the Coast,5,13.5
+2026-04-28,Station,Travel,Walking the Coast,1,13.5
+2026-04-29,Old Town,Cookery,One Pan Suppers,1,16.99
+2026-04-29,Station,Travel,Walking the Coast,1,13.5
+2026-04-29,Station,Cookery,Spice Road Kitchen,5,24.0
+2026-04-30,Old Town,Science,Tiny Worlds,2,18.0
+2026-04-30,Old Town,Children,Milo the Brave Mouse,3,7.99
+2026-04-30,Station,Children,The Moon Kite,4,6.5
+2026-05-01,Old Town,Travel,Walking the Coast,3,13.5
+2026-05-01,Old Town,Science,Tiny Worlds,1,18.0
+2026-05-01,Station,Children,Milo the Brave Mouse,7,7.99
+2026-05-01,Station,Travel,Walking the Coast,6,13.5
+2026-05-02,Riverside,Cookery,Spice Road Kitchen,8,24.0
+2026-05-02,Old Town,Cookery,One Pan Suppers,5,16.99
+2026-05-02,Old Town,Science,Tiny Worlds,5,18.0
+2026-05-02,Station,Travel,Walking the Coast,6,13.5
+2026-05-02,Station,Children,The Moon Kite,9,6.5
+2026-05-03,Riverside,Fiction,The Lighthouse Keeper,5,12.99
+2026-05-03,Riverside,Cookery,One Pan Suppers,3,16.99
+2026-05-03,Station,Children,The Moon Kite,4,6.5
+2026-05-03,Station,Cookery,One Pan Suppers,4,16.99
+2026-05-04,Riverside,Science,Tiny Worlds,2,18.0
+2026-05-04,Old Town,Science,Tiny Worlds,2,18.0
+2026-05-04,Station,Travel,Walking the Coast,4,13.5
+2026-05-05,Old Town,Science,Tiny Worlds,1,18.0
+2026-05-05,Old Town,Fiction,Northbound,3,14.5
+2026-05-05,Station,Travel,Walking the Coast,3,13.5
+2026-05-06,Old Town,Travel,Walking the Coast,4,13.5
+2026-05-07,Riverside,Science,How Rivers Think,3,21.5
+2026-05-07,Riverside,Science,How Rivers Think,6,21.5
+2026-05-07,Old Town,Fiction,Northbound,2,14.5
+2026-05-07,Old Town,Children,The Moon Kite,3,6.5
+2026-05-08,Riverside,Fiction,Northbound,2,14.5
+2026-05-08,Old Town,Cookery,One Pan Suppers,3,16.99
+2026-05-09,Old Town,Fiction,Northbound,4,14.5
+2026-05-09,Old Town,Science,Tiny Worlds,6,18.0
+2026-05-10,Riverside,Fiction,Salt and Stars,5,9.99
+2026-05-10,Riverside,Fiction,The Lighthouse Keeper,5,12.99
+2026-05-10,Old Town,Children,Milo the Brave Mouse,1,7.99
+2026-05-11,Riverside,Cookery,One Pan Suppers,4,16.99
+2026-05-11,Old Town,Cookery,Spice Road Kitchen,4,24.0
+2026-05-11,Old Town,Travel,Walking the Coast,5,13.5
+2026-05-11,Station,Fiction,The Lighthouse Keeper,1,12.99
+2026-05-12,Riverside,Cookery,One Pan Suppers,3,16.99
+2026-05-13,Old Town,Children,Milo the Brave Mouse,3,7.99
+2026-05-13,Old Town,Fiction,Salt and Stars,4,9.99
+2026-05-14,Riverside,Children,The Moon Kite,3,6.5
+2026-05-14,Station,Fiction,Salt and Stars,2,9.99
+2026-05-15,Riverside,Children,Milo the Brave Mouse,3,7.99
+2026-05-16,Old Town,Cookery,One Pan Suppers,3,16.99
+2026-05-17,Riverside,Cookery,Spice Road Kitchen,5,24.0
+2026-05-17,Riverside,Fiction,Salt and Stars,5,9.99
+2026-05-17,Station,Travel,Walking the Coast,2,13.5
+2026-05-17,Station,Children,Milo the Brave Mouse,5,7.99
+2026-05-18,Old Town,Fiction,The Lighthouse Keeper,1,12.99
+2026-05-18,Station,Fiction,Northbound,2,14.5
+2026-05-19,Station,Travel,Walking the Coast,5,13.5
+2026-05-19,Station,Science,How Rivers Think,7,21.5
+2026-05-20,Riverside,Science,How Rivers Think,2,21.5
+2026-05-20,Old Town,Travel,Walking the Coast,4,13.5
+2026-05-21,Riverside,Fiction,Salt and Stars,4,9.99
+2026-05-21,Old Town,Cookery,One Pan Suppers,5,16.99
+2026-05-21,Station,Cookery,One Pan Suppers,4,16.99
+2026-05-21,Station,Science,Tiny Worlds,5,18.0
+2026-05-22,Riverside,Children,The Moon Kite,4,6.5
+2026-05-22,Riverside,Science,Tiny Worlds,4,18.0
+2026-05-22,Old Town,Cookery,One Pan Suppers,1,16.99
+2026-05-22,Station,Children,Milo the Brave Mouse,9,7.99
+2026-05-22,Station,Children,Milo the Brave Mouse,4,7.99
+2026-05-23,Riverside,Children,The Moon Kite,5,6.5
+2026-05-23,Riverside,Science,Tiny Worlds,6,18.0
+2026-05-23,Old Town,Children,Milo the Brave Mouse,6,7.99
+2026-05-24,Riverside,Travel,Walking the Coast,3,13.5
+2026-05-24,Riverside,Fiction,Salt and Stars,13,9.99
+2026-05-24,Station,Travel,Walking the Coast,10,13.5
+2026-05-24,Station,Fiction,Salt and Stars,7,9.99
+2026-05-25,Riverside,Fiction,The Lighthouse Keeper,4,12.99
+2026-05-25,Riverside,Children,Milo the Brave Mouse,3,7.99
+2026-05-25,Station,Travel,Walking the Coast,3,13.5
+2026-05-26,Riverside,Cookery,One Pan Suppers,5,16.99
+2026-05-26,Riverside,Children,The Moon Kite,3,6.5
+2026-05-26,Old Town,Fiction,Northbound,2,14.5
+2026-05-26,Station,Cookery,One Pan Suppers,4,16.99
+2026-05-26,Station,Children,Milo the Brave Mouse,6,7.99
+2026-05-27,Riverside,Fiction,Salt and Stars,7,9.99
+2026-05-29,Riverside,Cookery,Spice Road Kitchen,2,24.0
+2026-05-29,Riverside,Science,Tiny Worlds,2,18.0
+2026-05-29,Station,Science,How Rivers Think,7,21.5
+2026-05-31,Riverside,Science,Tiny Worlds,1,18.0
+2026-05-31,Riverside,Fiction,Northbound,3,14.5
+2026-05-31,Old Town,Children,The Moon Kite,1,6.5
+2026-06-01,Riverside,Cookery,One Pan Suppers,5,16.99
+2026-06-01,Riverside,Science,Tiny Worlds,4,18.0
+2026-06-01,Station,Science,Tiny Worlds,2,18.0
+2026-06-01,Station,Fiction,Northbound,6,14.5
+2026-06-02,Riverside,Cookery,One Pan Suppers,4,16.99
+2026-06-02,Riverside,Children,Milo the Brave Mouse,2,7.99
+2026-06-02,Old Town,Fiction,The Lighthouse Keeper,4,12.99
+2026-06-03,Station,Fiction,The Lighthouse Keeper,8,12.99
+2026-06-04,Old Town,Children,Milo the Brave Mouse,1,7.99
+2026-06-05,Riverside,Travel,Walking the Coast,6,13.5
+2026-06-05,Old Town,Science,Tiny Worlds,5,18.0
+2026-06-05,Old Town,Science,Tiny Worlds,1,18.0
+2026-06-05,Station,Fiction,Northbound,6,14.5
+2026-06-05,Station,Travel,Walking the Coast,6,13.5
+2026-06-06,Riverside,Fiction,The Lighthouse Keeper,4,12.99
+2026-06-06,Riverside,Fiction,Northbound,6,14.5
+2026-06-07,Station,Travel,Walking the Coast,9,13.5
+2026-06-07,Station,Travel,Walking the Coast,13,13.5
+2026-06-08,Riverside,Cookery,One Pan Suppers,4,16.99
+2026-06-08,Old Town,Children,The Moon Kite,3,6.5
+2026-06-08,Station,Travel,Walking the Coast,5,13.5
+2026-06-09,Old Town,Cookery,Spice Road Kitchen,4,24.0
+2026-06-10,Riverside,Children,The Moon Kite,3,6.5
+2026-06-10,Riverside,Cookery,Spice Road Kitchen,7,24.0
+2026-06-10,Old Town,Fiction,Salt and Stars,5,9.99
+2026-06-10,Station,Fiction,The Lighthouse Keeper,1,12.99
+2026-06-11,Riverside,Children,The Moon Kite,3,6.5
+2026-06-11,Riverside,Science,Tiny Worlds,1,18.0
+2026-06-11,Old Town,Travel,Walking the Coast,2,13.5
+2026-06-11,Station,Cookery,One Pan Suppers,7,16.99
+2026-06-11,Station,Science,How Rivers Think,5,21.5
+2026-06-12,Old Town,Cookery,One Pan Suppers,4,16.99
+2026-06-12,Old Town,Cookery,Spice Road Kitchen,3,24.0
+2026-06-12,Station,Cookery,Spice Road Kitchen,5,24.0
+2026-06-12,Station,Science,How Rivers Think,2,21.5
+2026-06-13,Station,Children,Milo the Brave Mouse,10,7.99
+2026-06-14,Riverside,Cookery,One Pan Suppers,8,16.99
+2026-06-14,Old Town,Cookery,One Pan Suppers,1,16.99
+2026-06-14,Station,Science,How Rivers Think,1,21.5
+2026-06-15,Riverside,Fiction,Salt and Stars,4,9.99
+2026-06-15,Old Town,Science,Tiny Worlds,1,18.0
+2026-06-15,Old Town,Fiction,Northbound,3,14.5
+2026-06-16,Riverside,Cookery,One Pan Suppers,4,16.99
+2026-06-16,Riverside,Travel,Walking the Coast,3,13.5
+2026-06-16,Old Town,Travel,Walking the Coast,3,13.5
+2026-06-16,Station,Travel,Walking the Coast,10,13.5
+2026-06-16,Station,Fiction,The Lighthouse Keeper,9,12.99
+2026-06-17,Riverside,Travel,Walking the Coast,4,13.5
+2026-06-17,Riverside,Cookery,One Pan Suppers,7,16.99
+2026-06-18,Old Town,Fiction,The Lighthouse Keeper,3,12.99
+2026-06-18,Station,Cookery,One Pan Suppers,8,16.99
+2026-06-18,Station,Science,Tiny Worlds,5,18.0
+2026-06-19,Riverside,Travel,Walking the Coast,5,13.5
+2026-06-19,Station,Science,Tiny Worlds,6,18.0
+2026-06-20,Old Town,Cookery,Spice Road Kitchen,1,24.0
+2026-06-20,Station,Children,Milo the Brave Mouse,10,7.99
+2026-06-21,Riverside,Children,Milo the Brave Mouse,3,7.99
+2026-06-21,Riverside,Cookery,Spice Road Kitchen,6,24.0
+2026-06-21,Old Town,Children,Milo the Brave Mouse,3,7.99
+2026-06-21,Old Town,Children,The Moon Kite,7,6.5
+2026-06-21,Station,Cookery,Spice Road Kitchen,2,24.0
+2026-06-22,Station,Travel,Walking the Coast,6,13.5
+2026-06-22,Station,Children,Milo the Brave Mouse,5,7.99
+2026-06-23,Riverside,Cookery,Spice Road Kitchen,5,24.0
+2026-06-23,Old Town,Children,Milo the Brave Mouse,2,7.99
+2026-06-23,Old Town,Travel,Walking the Coast,3,13.5
+2026-06-24,Old Town,Science,How Rivers Think,5,21.5
+2026-06-24,Old Town,Children,The Moon Kite,4,6.5
+2026-06-25,Riverside,Children,Milo the Brave Mouse,3,7.99
+2026-06-25,Riverside,Cookery,Spice Road Kitchen,4,24.0
+2026-06-25,Old Town,Travel,Walking the Coast,1,13.5
+2026-06-25,Station,Children,The Moon Kite,5,6.5
+2026-06-26,Riverside,Children,The Moon Kite,4,6.5
+2026-06-26,Old Town,Science,How Rivers Think,3,21.5
+2026-06-27,Station,Science,How Rivers Think,1,21.5
+2026-06-28,Riverside,Cookery,Spice Road Kitchen,8,24.0
+2026-06-28,Riverside,Travel,Walking the Coast,3,13.5
+2026-06-29,Riverside,Science,How Rivers Think,7,21.5
+2026-06-29,Station,Travel,Walking the Coast,6,13.5
+2026-06-30,Station,Cookery,One Pan Suppers,5,16.99

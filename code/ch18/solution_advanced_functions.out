@@ -1,0 +1,6 @@
+attempt 1 failed: busy
+attempt 2 failed: busy
+ok
+2
+{'mode': 'test'}
+{'mode': 'normal'}

@@ -1,0 +1,9 @@
+2026-10-14 08:00:01 INFO Server started
+2026-10-14 08:05:12 INFO GET /books 200
+2026-10-14 08:05:13 WARNING Slow request: GET /books took 1.2 s
+2026-10-14 09:12:44 ERROR Database locked
+2026-10-14 09:12:45 INFO GET /books 200
+2026-10-14 11:30:02 ERROR Database locked
+2026-10-14 13:01:55 WARNING Disk 85% full
+2026-10-14 17:45:10 ERROR Could not send email: connection refused
+2026-10-14 18:00:00 INFO Server stopped

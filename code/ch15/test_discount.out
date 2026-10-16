@@ -1,0 +1,14 @@
+...F                                                                 [100%]
+================================= FAILURES =================================
+____________________________ test_full_discount ____________________________
+
+    def test_full_discount():
+>       assert apply_discount(10.0, 100) == 1.0  # the test is wrong
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       assert 0.0 == 1.0
+E        +  where 0.0 = apply_discount(10.0, 100)
+
+test_discount.py:20: AssertionError
+========================= short test summary info ==========================
+FAILED test_discount.py::test_full_discount - assert 0.0 == 1.0
+1 failed, 3 passed in 0.01s
